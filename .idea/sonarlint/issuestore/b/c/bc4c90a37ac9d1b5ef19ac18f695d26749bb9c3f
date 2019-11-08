@@ -1,0 +1,10 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ð·—H8óè†¹ä-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ¿ÚÌ8÷ãˆ¹ä-
+•squid:S1319"wThe type of the "konstituente" object should be an interface such as "List" rather than the implementation "ArrayList".(æ¿ÚÌ8÷ãˆ¹ä-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÐýâŽûÿÿÿÿ8ÿ˜ã·ä-
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ôÅ‰¶ýÿÿÿÿ8ÀâÛ·ä-
